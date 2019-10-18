@@ -1,8 +1,8 @@
 # 我司常用
 ----------
 
-[![Build Status](https://travis-ci.org/infoepoch/go-dev-common.svg?branch=master)](https://travis-ci.org/infoepoch/go-dev-common)
-[![Go Report Card](https://goreportcard.com/badge/github.com/infoepoch/go-dev-common)](https://goreportcard.com/report/github.com/infoepoch/go-dev-common)
+[![Build Status](https://travis-ci.org/learninto/go-pkg.svg?branch=master)](https://travis-ci.org/learninto/go-pkg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/learninto/go-pkg)](https://goreportcard.com/report/github.com/learninto/go-pkg)
 
 - [restful](/beego/restful/README.md)
 - [httplib](/beego/cache/README.md)
